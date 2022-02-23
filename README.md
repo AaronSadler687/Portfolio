@@ -3,3 +3,6 @@ This is just a general location for various projects I have personally made and 
 
 Project 1:
 Goals: To demonstrate basic usage of pointer, dynamic memory allocation, reading and writing files, and using value-returning functions.
+
+ASM Project 1:
+Goals: To demonstrate basic understanding of x86_64 assembly language usage, and creating a basic function, loop, and working with an array within it.
