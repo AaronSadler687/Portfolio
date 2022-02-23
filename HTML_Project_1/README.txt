@@ -1,0 +1,1 @@
+Overview: This assingment was done in HTML and CSS, and the goal of it is to create a nice and clean website talking about various locations in Singapore. A end goal site was provided to make the website match, and how we went about it was up to us.
