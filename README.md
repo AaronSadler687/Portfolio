@@ -6,3 +6,6 @@ Goals: To demonstrate basic usage of pointer, dynamic memory allocation, reading
 
 ASM Project 1:
 Goals: To demonstrate basic understanding of x86_64 assembly language usage, and creating a basic function, loop, and working with an array within it.
+
+HTML Project 1:
+Goals: To demonstrate basic understaning of CSS and HTML. The website provided, is meant to be a clean and easy to navigate website discussing the various locations and attractions of singapore.
