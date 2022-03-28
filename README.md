@@ -4,6 +4,9 @@ This is just a general location for various projects I have personally made and 
 Project 1: Dynamic Memory Allocation [C++]</br>
 Goals: To demonstrate basic usage of pointer, dynamic memory allocation, reading and writing files, and using value-returning functions.
 
+Project 3: Ordered Singly-Linked List Template [C++] </br>
+Goals: To show usaged of singly linked list, templates, and ordering singly linked list with custom objects.
+
 Project 4: The Maze [C++]</br>
 Goals: To demonstrate usage of recursion, and the use of backtracking exlusivly to solve a problem.
 
