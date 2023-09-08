@@ -3,6 +3,10 @@ This is just a general location for various projects I have personally made and 
 
 <strong>Large / Group Projects</strong>
 
+Baldurs Gate 3 Mod, Bard Subclass:</br>
+Link to the mods Nexus page: https://www.nexusmods.com/baldursgate3/mods/741?tab=description </br>
+Goals: The main goal of developing this mod, was a pure passion project. I was forced to learn how to mod for a game that was brand new, and had little to no modding support out there. This is a project I am very proud of, as it adds one of my favorite subclasses from Dungeons and Dragons (The Tabletop game which Baldurs Gate 3 is based off of) into the game for any players to use. The mod as of this post has over 8,600 unique downloads, and continues to grow each day.</br>
+
 DM-Toolbox:</br>
 Link to DM-Toolbox Github: https://github.com/JoshuaWheaton/DM-toolbox </br>
 Goals: To work with C#, and .Net framework windows forms app to create an all-in-one tool designed specifically for dungeon masters to manage and run tabletop role-playing game (RPG) encounters. With its intuitive and user-friendly interface, the DM-Toolbox offers a wide range of features to help streamline the DM's work. This project was made in a group of 5 students, and was a semester long project.</br>
